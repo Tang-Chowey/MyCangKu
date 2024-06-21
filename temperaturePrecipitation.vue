@@ -2,6 +2,7 @@
     <div id="temperaturePrecipitation" style="width: 100%; height: 100%;"></div>
 </template>
 <script>
+// 在分支C4修改文件temperaturePrecipitation.vue
 import * as echarts from 'echarts';
 export default {
     mounted() {

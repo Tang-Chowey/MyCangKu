@@ -4,6 +4,7 @@
 
 <script>
 import * as echarts from 'echarts';
+// 在分支B3修改文件fishNumberChart.vue
 export default {
   mounted() {
     this.initEcharts();

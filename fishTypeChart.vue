@@ -5,6 +5,7 @@
 <script>
 // 第一次修改文件fishTypeChart.vue
 // 第二次修改文件fishTypeChart.vue
+// 在分支B2修改文件fishTypeChart.vue
 import * as echarts from 'echarts';
 export default {
   mounted() {

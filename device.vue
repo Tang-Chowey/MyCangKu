@@ -5,6 +5,7 @@
 <script>
 // 第一次修改文件device.vue
 // 第二次修改文件device.vue
+// 在分支B2修改文件device.vue
 import * as echarts from 'echarts';
 import 'echarts-liquidfill'
 export default {

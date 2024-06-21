@@ -5,6 +5,7 @@
 <script>
 // 第一次修改文件environmentalScore.vue
 // 第二次修改文件environmentalScore.vue
+// 在分支B2修改文件environmentalScore.vue
 import * as echarts from 'echarts';
 
 export default {

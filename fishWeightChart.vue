@@ -14,6 +14,7 @@
 </template>
 
 <script>
+// 在分支C4修改文件fishWeightChart.vue
 import * as echarts from 'echarts'
 // 在分支B3修改文件fishWeightGenerator.js
 import generateFishWeightData from './fishWeightGenerator.js';
